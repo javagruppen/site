@@ -1,14 +1,24 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Om
+permalink: /om/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Test]
+tags: [Om, JavaGruppen]
 ---
+Javagruppen er en uafhængig forening for danske udviklere som anvender Java eller Java-relateret teknologi til udvikling af software.
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Javagruppen er anderkendt af Oracle, men modtager ikke nogen form for økonomisk sponsorat fra Oracle.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Medlemmerne af Javagruppen betaler et årligt kontingent som er afhængigt af typen af medlemskab.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+# Medlemskaber
+Javagruppen tilbyder følgende medlemskaber:
+
+- Fuldt virksomhedsmedlemskab: kr. 4.000,00
+- Virksomhedsmedlemskab med navngivne personer: kr. 1.000,00
+- Studiemedlemskab: kr. 0,00
+- Privat medlemskab: kr. 800,00
+
+For at tilmelde dig skal du udfylde følgende denne formular: http://www.javagruppen.dk/javagruppen/indmeldelse
+
+Du kan se hvem som for nuværende er medlem af Javagruppen her: http://www.javagruppen.dk/javagruppen/medlemmer

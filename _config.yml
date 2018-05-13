@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://javagruppen.github.io"
-title: JavaGruppen# site's title
+title: JavaGruppen # site's title
 description: "Dansk Java User-group" # used by search engines
 
 # THEME-SPECIFIC CONFIGURATION
@@ -14,8 +14,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>JavaGruppen er Danmarks <code>Java Uger Group</code> <br> - en brugergruppe om alt, Java-relateret.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>JavaGruppen er Danmarks <code>Java User Group</code> <br> - en brugergruppe om alt, Java-relateret.</p>
+  header_text_feature_image: assets/img/topbanner.jpg
   footer_text: >
    JavaGruppen på <a href="https://twitter.com/">Twitter</a> og <a href="https://facebook.com/">Facebook</a>
 
@@ -58,15 +58,15 @@ theme_settings:
       enabled: true
   
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_follow_on: "Følg"
+  str_rss_follow: "Følg RSS feed"
+  str_email: "E-mail"
+  str_next_post: "Næste artikel"
+  str_previous_post: "Forrige artikel"
+  str_next_page: "Næste"
+  str_previous_page: "Forrige"
+  str_continue_reading: "Læs mere"
+  str_javascript_required_disqus: "Aktiver JavaScrip for at læse kommentarer."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"

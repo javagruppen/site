@@ -1,8 +1,8 @@
 --- 
 layout: bootstrap 
-title : Portfolio 
-permalink: /portfolio/
-subtitle: "Projects I am working on" 
+title : Arrangementer 
+permalink: /arrangementer/
+subtitle: "Javagruppens Arragementer" 
 feature-img: "assets/img/pexels/computer.jpeg"
 ---
 

@@ -43,7 +43,7 @@ If the time allows, we might dive into how the cluster can be monitored using EL
 This presentation is a 50/50 mix between slides and demo.
  
 # Claus Ibsen (Red Hat)
-![](/assets/img/speakers/clausibsen.jpg)
+![](/assets/img/speakers/clausIbsen.jpg)
 
 Claus Ibsen works full time at Red Hat on open source integration software, such as Apache Camel, ActiveMQ, fabric8, hawtio and author of the Camel in Action book. Claus is very active in the communities, where he help others, blogs, writes, and tweet as well.
 

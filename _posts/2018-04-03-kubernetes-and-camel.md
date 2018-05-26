@@ -10,7 +10,7 @@ tags: [Training, Session, Jpa, Hibernate]
 "Get started with High Available Kubernetes cluster"
 </p>
 
-11\. Oktober fra kl. 16.30-19.00 hos Systematic  
+11\. oktober fra kl. 16.30-19.00 hos Systematic  
 Søren Frichs Vej 39, 8000 Aarhus C
 
 Vi er rigtig glade for at vi kunne få Helge Tesgaard til at komme og fortælle om, hvordan man sætter et High Available Kubernetes cluster op. Claus Ibsen har gæstet javagruppen en del gange og vi er rigtig glade for, at han denne gang kommer og fortæller om Apache Camel Miroservices i Kubernetes.

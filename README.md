@@ -3,6 +3,10 @@ To develop on / ccontribute to Javagruppens website, we recommend that you use o
 
 ## Local development:
 
+### WebStorm
+
+(http://hadihariri.com/2014/01/04/using-webstorm-to-maintain-a-jekyll-site/)
+
 **On Windows**
 
 **TODO** - Martin, please write this!!!
@@ -26,8 +30,6 @@ gem install jekyll
 bundle install
 bundle exec jekyll serve
 ```
-
-**TODO** - Christian, please write this!!!
 
 ## Easy development (through docker):
 

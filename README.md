@@ -9,7 +9,16 @@ To develop on / ccontribute to Javagruppens website, we recommend that you use o
 
 **On Windows**
 
-**TODO** - Martin, please write this!!!
+Læs: (https://jekyllrb.com/docs/windows/)
+Download: (https://rubyinstaller.org/downloads/)
+![alt text](assets/img/ruby-on-windows.png 100x20)
+
+```
+gem install bundle
+gem install jekyll
+bundle install
+bundle exec jekyll serve
+```
 
 **On Mac Os X**
 

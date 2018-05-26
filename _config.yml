@@ -66,7 +66,7 @@ theme_settings:
   str_next_page: "Næste"
   str_previous_page: "Forrige"
   str_continue_reading: "Læs mere"
-  str_javascript_required_disqus: "Aktiver JavaScrip for at læse kommentarer."
+  str_javascript_required_disqus: "Aktiver JavaScript for at læse kommentarer."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"

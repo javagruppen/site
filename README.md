@@ -1,3 +1,22 @@
+# Development
+To develop on / ccontribute to Javagruppens website, we recommend that you use one of the following approaches
+
+## Local development:
+
+**On Windows**
+**TODO** - Martin, please write this!!!
+
+**On Mac Os X**
+**TODO** - Christian, please write this!!!
+
+## Easy development (through docker):
+
+1. Make sure Docker (and docker-compose) is properly installed on your machine 
+2. Clone the repository
+3. Go into the cloned repository
+4. Start the jekyll bundler (through docker)
+   - `docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve`
+
 # Type on Strap 
 
 [![Build Status](https://travis-ci.org/Sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/Sylhare/Type-on-Strap) 

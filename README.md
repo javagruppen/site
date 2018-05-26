@@ -9,6 +9,24 @@ To develop on / ccontribute to Javagruppens website, we recommend that you use o
 
 **On Mac Os X**
 
+LÆS: (https://stackoverflow.com/questions/39381360/how-do-i-install-ruby-gems-on-mac)
+
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install rbenv ruby-build
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
+echo 'eval "$(rbenv init -)"' >> ~/.bash_profile  
+rbenv install 2.3.3
+rbenv local 2.3.3
+rbenv global 2.3.3
+rbenv rehash
+gem update --system
+gem install bundle
+gem install jekyll
+bundle install
+bundle exec jekyll serve
+```
+
 **TODO** - Christian, please write this!!!
 
 ## Easy development (through docker):

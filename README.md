@@ -4,9 +4,11 @@ To develop on / ccontribute to Javagruppens website, we recommend that you use o
 ## Local development:
 
 **On Windows**
+
 **TODO** - Martin, please write this!!!
 
 **On Mac Os X**
+
 **TODO** - Christian, please write this!!!
 
 ## Easy development (through docker):

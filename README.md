@@ -13,7 +13,12 @@ Læs: (https://jekyllrb.com/docs/windows/)
 
 Download: (https://rubyinstaller.org/downloads/)
 
-<img src="assets/img/ruby-on-windows.png" alt="ruby-on-windows10" style="width: 200px;"/>
+
+![x](assets/img/run-ruby-on-windows.png)
+
+xx
+
+<img src="assets/img/run-ruby-on-windows.png" alt="ruby-on-windows10" style="width: 100px;"/>
 
 ```
 gem install bundle

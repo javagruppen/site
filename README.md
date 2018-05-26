@@ -1,5 +1,5 @@
 # Development
-To develop on / ccontribute to Javagruppens website, we recommend that you use one of the following approaches
+To develop on / contribute to Javagruppens website, we recommend that you use one of the following approaches
 
 ## Local development:
 
@@ -13,7 +13,7 @@ Læs: (https://jekyllrb.com/docs/windows/)
 
 Download: (https://rubyinstaller.org/downloads/)
 
-<img src="assets/img/ruby-on-windows10.png" alt="ruby-on-windows10" style="width: 200px;"/>
+<img src="assets/img/ruby-on-windows.png" alt="ruby-on-windows10" style="width: 200px;"/>
 
 
 ```

@@ -20,6 +20,7 @@ xx
 
 <img src="assets/img/run-ruby-on-windows.png" alt="ruby-on-windows10" style="width: 100px;"/>
 
+
 ```
 gem install bundle
 gem install jekyll

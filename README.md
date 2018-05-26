@@ -11,18 +11,7 @@ To develop on / ccontribute to Javagruppens website, we recommend that you use o
 
 Læs: (https://jekyllrb.com/docs/windows/)
 Download: (https://rubyinstaller.org/downloads/)
-![alt text](assets/img/ruby-on-windows.png 100x20)
-
-```
-gem install bundle
-gem install jekyll
-bundle install
-bundle exec jekyll serve
-```
-
-Læs: (https://jekyllrb.com/docs/windows/)
-Download: (https://rubyinstaller.org/downloads/)
-![alt text](assets/img/ruby-on-windows.png)
+![alt text](assets/img/ruby-on-windows10.png =100x20)
 
 ```
 gem install bundle

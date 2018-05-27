@@ -51,6 +51,8 @@ bundle exec jekyll serve
 4. Start the jekyll bundler (through docker)
    - `docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve`
 
+See: [bash_docker.sh](./bash_docker.sh)
+
 # Type on Strap 
 
 [![Build Status](https://travis-ci.org/Sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/Sylhare/Type-on-Strap) 

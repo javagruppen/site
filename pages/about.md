@@ -3,7 +3,7 @@ layout: page
 title: Om
 permalink: /om/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [Om, JavaGruppen]
+tags: [Om, Javagruppen]
 ---
 Javagruppen er en uafhængig forening for danske udviklere som anvender Java eller Java-relateret teknologi til udvikling af software.
 

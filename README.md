@@ -14,11 +14,7 @@ Læs: (https://jekyllrb.com/docs/windows/)
 Download: (https://rubyinstaller.org/downloads/)
 
 
-![x](assets/img/run-ruby-on-windows.png)
-
-xx
-
-<img src="assets/img/run-ruby-on-windows.png" alt="ruby-on-windows10" style="width: 200px;"/>
+![run-ruby-on-windows](assets/img/run-ruby-on-windows.png)
 
 ```
 gem install bundle
@@ -54,6 +50,8 @@ bundle exec jekyll serve
 3. Go into the cloned repository
 4. Start the jekyll bundler (through docker)
    - `docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve`
+
+See: [bash_docker.sh](./bash_docker.sh)
 
 # Type on Strap 
 

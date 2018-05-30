@@ -10,3 +10,4 @@ _site/
 .idea/
 
 # End of https://www.gitignore.io/api/jekyll
+/.idea/

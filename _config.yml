@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://javagruppen.github.io"
-title: JavaGruppen # site's title
+title: Javagruppen # site's title
 description: "Dansk Java User-group" # used by search engines
 
 # THEME-SPECIFIC CONFIGURATION
@@ -14,10 +14,10 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>JavaGruppen er Danmarks <code>Java User Group</code> <br> - en brugergruppe om alt, Java-relateret.</p>
+     <p>Javagruppen er Danmarks <code>Java User Group</code> <br> - en brugergruppe om alt, Java-relateret.</p>
   header_text_feature_image: assets/img/topbanner.jpg
   footer_text: >
-   JavaGruppen på <a href="https://twitter.com/">Twitter</a> og <a href="https://facebook.com/">Facebook</a>
+   Javagruppen på <a href="https://twitter.com/">Twitter</a> og <a href="https://facebook.com/">Facebook</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article>
+  <header id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+    <h1 id="{{ page.subject | default: "" | cgi_escape }}" class="title">
+        {{ page.subject }}
+    </h1>
+
+  </header>
+  <section class="post-content">
+    <p>
+      <a href="/communication/emails">
+        <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
+        Tilbage til Udsendte E-mails
+      </a>
+    </p>
+    <p class="meta">
+      {{ page.date | date: "%B %-d, %Y" }}
+    </p>
+    <p>{{ content }}</p>
+  </section>
+
+</article>

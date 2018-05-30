@@ -1,0 +1,12 @@
+.bignav-item {
+  img {
+    padding: 0 1em;
+    float: left;
+    width: 20em;
+  }
+
+  &:not(:first-child) {
+    clear: both;
+    padding-top: 2em;
+  }
+}

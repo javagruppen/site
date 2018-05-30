@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article {% if page.feature-img %}class="feature-image" {% endif %}>
+    <header id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+        <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title">
+        {{ page.title }}
+        </h1>
+
+        {% if page.subtitle %}
+        <h2 class="subtitle">{{ page.subtitle }}</h2>
+        {% endif %}
+
+    </header>
+    <section class="post-content">
+        <p>
+            <a href="/communication">
+                <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>
+                Tilbage til Kommunikation
+            </a>
+        </p>
+
+        {% assign emailsByYear = site.emails | group_by_exp:"item", "item.date | date: '%Y'"  %}
+        {% for year in emailsByYear reversed %}
+        <h3>{{ year.name }}</h3>
+        <div class="bootstrap-iso">
+            <dl class="dl-horizontal">
+                {% for email in year.items reversed %}
+                    <dt class="meta">{{ email.date | date: "%B %-d, %Y" }}</dt>
+                    <dd><a href="{{ email.url }}">{{ email.subject }}</a></dd>
+                {% endfor %}
+            </dl>
+        </div>
+        {% endfor %}
+    </section>
+</article>

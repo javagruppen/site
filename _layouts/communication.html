@@ -1,0 +1,52 @@
+---
+layout: default
+---
+{% assign facebook_url = "https://www.facebook.com/Javagruppen/" %}
+{% assign twitter_url = "https://twitter.com/search?q=javagruppen&src=typd" %}
+
+<article {% if page.feature-img %}class="feature-image"{% endif %}>
+  <header id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+    <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title">
+        {{ page.title }}
+    </h1>
+    
+    {% if page.subtitle %}
+    <h2 class="subtitle">{{ page.subtitle }}</h2>
+    {% endif %}
+      
+  </header>
+
+  <section class="post-content">
+    <div class="bignav-item">
+      <a href="/communication/emails">
+        <img src="{{site.baseurl}}/assets/img/pexels/emails.jpeg"/>
+        <h2>Udsendte E-mails</h2>
+      </a>
+      <p>
+        Her er en liste over allerede udsendte e-mails og nyhedsbreve...
+      </p>
+    </div>
+    <div class="bignav-item">
+      <a href="{{facebook_url}}">
+        <img src="{{site.baseurl}}/assets/img/pexels/facebook.jpeg"/>
+        <h2>Facebook</h2>
+      </a>
+      <p>
+        Her er et link til Javagruppen på <a href="https://www.facebook.com/Javagruppen/">Facebook</a>.
+      </p>
+    </div>
+    <div class="bignav-item">
+      <a href="{{twitter_url}}">
+        <img src="{{site.baseurl}}/assets/img/pexels/twitter.jpeg"/>
+        <h2>Twitter</h2>
+      </a>
+      <p>
+        Her er et link til Javagruppen på <a href="{{twitter_url}}">Twitter</a>.
+      </p>
+    </div>
+  </section>
+
+
+  <section class="post-content">{{ content }}</section>
+
+</article>

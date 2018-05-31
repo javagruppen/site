@@ -21,15 +21,16 @@ Therefore, we are going to discuss:
 7. Fetching best practices
 8. It’s important you bring your on laptop for the training session
 
-**Location:**
+## Location:
 
 Lund&Bendsen A/S  
 Naverland 2, 15. sal  
 2600 Glostrup
 
-**Date and time:** 13/6-2018 between 09.00 - 18.00
+## Date and time: 
+13/6-2018 between 09.00 - 18.00
 
-**Price and ticket sales:**
+## Price and ticket sales:
 
 For both the JDK.IO and workshop is DKK 4.800,00  include breakfast, lunch and coffee - ticket sale
 We reserve the right to cancel if there are less than 3 participants, and the workshop has a maximum capacity of 15 people.

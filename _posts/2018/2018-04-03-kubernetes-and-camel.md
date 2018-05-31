@@ -13,7 +13,11 @@ tags: [Training, Session, Jpa, Hibernate]
 11\. oktober fra kl. 16.30-19.00 hos Systematic  
 Søren Frichs Vej 39, 8000 Aarhus C
 
+<<<<<<< HEAD
 Vi er rigtig glade for at vi kunne få Helge Tesgaard til at komme og fortælle om, hvordan man sætter et **High _Available_**   Kubernetes cluster op. Claus Ibsen har gæstet javagruppen en del gange og vi er rigtig glade for, at han denne gang kommer og fortæller om Apache Camel Miroservices i Kubernetes.
+=======
+Vi er rigtig glade for at vi kunne få Helge Tesgaard til at komme og fortælle om, hvordan man sætter et **High Available**   Kubernetes cluster op. Claus Ibsen har gæstet javagruppen en del gange og vi er rigtig glade for, at han denne gang kommer og fortæller om Apache Camel Miroservices i Kubernetes.
+>>>>>>> branch 'master' of git@github.com:javagruppen/javagruppen.github.io.git
 
 Der vil blive serveret en sandwich og vand efter præsentationen og derefter mulighed for at netværke med andre Java folk
 

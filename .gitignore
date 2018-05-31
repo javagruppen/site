@@ -5,9 +5,14 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+Gemfile.lock
 
 ### Intellij ###
 .idea/
 
 # End of https://www.gitignore.io/api/jekyll
 /.idea/
+
+### Eclipse ###
+.settings/*
+.project

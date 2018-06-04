@@ -46,6 +46,6 @@ Du har ret til at få oplyst, hvilke personoplysninger, vi behandler om dig. Du 
 ## Udgiver
 Websitet ejes og publiceres af:
 
-Javagruppen 
-Naverland 2, 15.sal 
+Javagruppen\
+Naverland 2, 15.sal\
 2600 Glostrup

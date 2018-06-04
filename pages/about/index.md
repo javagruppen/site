@@ -36,7 +36,7 @@ Vi behandler følgende personoplysninger:
  
 2) Oplysninger om bestyrelse og aktivitetsudvalg: 
   Ud over de almindelige medlemsoplysninger registrerer vi 
-  * Oplysninger om tillidsposter og andre hverv i relation til foreningen 
+  * Oplysninger om tillidsposter, andre hverv i relation til foreningen 
   * Bankkontonummer  
   * Personoplysninger, der er tillagt en højere grad af beskyttelse:   
   * CPR-nummer

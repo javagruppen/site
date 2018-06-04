@@ -23,7 +23,7 @@ Javagruppen tilbyder følgende medlemskaber:
 
 [Indmeldelse](http://www.javagruppen.dk/javagruppen/indmeldelse)
 
-[Se nuværende  medlemer af Javagruppen](http://www.javagruppen.dk/javagruppen/medlemmer)
+[Se nuværende  medlemer af Javagruppen](https://javagruppen.dk/javagruppen/medlemsliste)
 
 # Sikkerhed og persondatapolitik
 Vi har truffet tekniske og organisatoriske foranstaltninger mod, at dine oplysninger hændeligt eller ulovligt bliver slettet, offentliggjort, fortabt, forringet eller kommer til uvedkommendes kendskab, misbruges eller i øvrigt behandles i strid med lovgivningen.

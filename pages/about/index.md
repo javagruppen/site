@@ -20,9 +20,10 @@ Javagruppen tilbyder følgende medlemskaber:
 - Studiemedlemskab: kr. 0,00
 - Privat medlemskab: kr. 800,00
 
-For at tilmelde dig skal du udfylde følgende denne formular: http://www.javagruppen.dk/javagruppen/indmeldelse
 
-Du kan se hvem som for nuværende er medlem af Javagruppen her: http://www.javagruppen.dk/javagruppen/medlemmer
+[Indmeldelse](http://www.javagruppen.dk/javagruppen/indmeldelse)
+
+[Se nuværende  medlemer af Javagruppen](http://www.javagruppen.dk/javagruppen/medlemmer)
 
 # Sikkerhed og persondatapolitik
 Vi har truffet tekniske og organisatoriske foranstaltninger mod, at dine oplysninger hændeligt eller ulovligt bliver slettet, offentliggjort, fortabt, forringet eller kommer til uvedkommendes kendskab, misbruges eller i øvrigt behandles i strid med lovgivningen.

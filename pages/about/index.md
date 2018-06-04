@@ -8,7 +8,7 @@ order: 500
 ---
 Javagruppen er en uafhængig forening for danske udviklere som anvender Java eller Java-relateret teknologi til udvikling af software.
 
-Javagruppen er anderkendt af Oracle, men modtager ikke nogen form for økonomisk sponsorat fra Oracle.
+Javagruppen er anderkendt af Oracle, men modtager ikke fast økonomisk sponsorat fra Oracle.
 
 Medlemmerne af Javagruppen betaler et årligt kontingent som er afhængigt af typen af medlemskab.
 

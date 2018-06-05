@@ -7,7 +7,7 @@ tags: [Training, Session, Jpa, Hibernate]
 This year we also has an unique extra offer for a one-day workshop right after jdk.io the 13. of June with Vlad Mihalcea - https://vladmihalcea.com from the Hibernate team.
 
 In this one-day workshop Vlad, are going through various data access performance optimizations that are relevant for a great variety of Java Persistence frameworks.
-
+<!-- more -->
 ![](/assets/img/speakers/vladmihalcea.jpg){: .speaker}
 
 Therefore, we are going to discuss:

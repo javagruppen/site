@@ -4,6 +4,8 @@ url: "https://javagruppen.github.io"
 title: Javagruppen # site's title
 description: "Dansk Java User-group" # used by search engines
 
+excerpt_separator: "<!-- more -->"
+
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta

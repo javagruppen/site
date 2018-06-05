@@ -3,7 +3,6 @@ layout: post
 title: Kubernetes & Apache Camel microservices gå-hjem møde den 11. okt hos Systematic i Aarhus
 tags: [Training, Session, Jpa, Hibernate]
 ---
-
 <p align="center">
 "Agile Integration with Apache Camel microservices in containers on Kubernetes"<br>
 &<br>
@@ -17,7 +16,7 @@ Vi er rigtig glade for at vi kunne få Helge Tesgaard til at komme og fortælle 
 
 
 Der vil blive serveret en sandwich og vand efter præsentationen og derefter mulighed for at netværke med andre Java folk
-
+<!-- more -->
 # Agenda
 
 1. Get started with High Available Kubernetes cluster - Helge Tesgaard

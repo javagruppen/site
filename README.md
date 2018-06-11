@@ -71,6 +71,21 @@ Here's a description of "what goes where", in regards to posts, pages etc.:
 
 ### Pages
 
+Pages must be placed in a sub-folder within the `pages`-folder, with an appropriate name. The file within that folder must then be named `index.md`, if the page contains 
+one or more sub pages, these can be added to the same sub-folder, with a descriptive name.
+
+The following example illustrates the layout for a **contact**-page, with **address**- and **form**-sub pages, eg.:
+
+```
+...
+- /pages
+  - /contact
+    - index.md
+    - address.md
+    - form.md
+...
+```
+
 The [Front Matter](#terminology) of the pages "posts" can contain quite a few entries, to customize a few aspects of their appearance, these beingø;:
   * `layout` controls the layout of the page in question (this **is required** normally this will be set to `page`, eg: `layout: page` - unless catering to special concerns)
   * `title` sets the title of the page (and **is required**)
@@ -85,7 +100,8 @@ The [Front Matter](#terminology) of the pages "posts" can contain quite a few en
 Emails must be placed in the folder `_emails`, in the appropriate **year**-folder, and named on the form `YYYY-MM-DD-description.md`, where `YYYY` is replaced with a 4
 digits year, `MM` with a two digit month and `DD` with a two digit "day of month".  
 
-Eg. a mail correspondence (newsletter) from April 1st 2018, must go into the `_emails/2018`-folder, and file must be named.
+Eg. a mail correspondence (newsletter) from April 1st 2018, must go into the `_emails/2018`-folder, and file must be named `2018-04-01-some-description.md` (where the description 
+in this case is `some description`).
 
 The [Front Matter](#terminology) of the e-mail "posts" must contain two entries:
   * `layout` controls the layout of the emails posts (and this **must** be set to email, eg: `layout: email`)

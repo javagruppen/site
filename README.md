@@ -77,13 +77,11 @@ one or more sub pages, these can be added to the same sub-folder, with a descrip
 The following example illustrates the layout for a **contact**-page, with **address**- and **form**-sub pages, eg.:
 
 ```
-...
-- /pages
-  - /contact
-    - index.md
-    - address.md
-    - form.md
-...
+/pages
+  /contact
+    index.md
+    address.md
+    form.md
 ```
 
 The [Front Matter](#terminology) of the pages "posts" can contain quite a few entries, to customize a few aspects of their appearance, these beingø;:
@@ -109,5 +107,5 @@ The [Front Matter](#terminology) of the e-mail "posts" must contain two entries:
 
 # Terminology
 | Term          | Description                                                                                                          |
-| ------------- |:--------------------------------------------------------------------------------------------------------------------:|
+| ------------- |----------------------------------------------------------------------------------------------------------------------|
 | Front Matter  | The first lines of the various posts / pages, containing meta-data about the content (partitioned by 3 dashes `---`) |

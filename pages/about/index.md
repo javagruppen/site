@@ -2,7 +2,7 @@
 layout: page
 title: Om Javagruppen
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/topbanner.jpg"
 tags: [Om, JavaGruppen]
 order: 500
 ---
@@ -21,9 +21,9 @@ Javagruppen tilbyder følgende medlemskaber:
 - Privat medlemskab: kr. 800,00
 
 
-[Indmeldelse](http://www.javagruppen.dk/javagruppen/indmeldelse)
+[Indmeldelse](/sign-up)
 
-[Se nuværende  medlemer af Javagruppen](https://javagruppen.dk/javagruppen/medlemsliste)
+[Se nuværende  medlemer af Javagruppen](/about/members)
 
 # Sikkerhed og persondatapolitik
 Vi har truffet tekniske og organisatoriske foranstaltninger mod, at dine oplysninger hændeligt eller ulovligt bliver slettet, offentliggjort, fortabt, forringet eller kommer til uvedkommendes kendskab, misbruges eller i øvrigt behandles i strid med lovgivningen.

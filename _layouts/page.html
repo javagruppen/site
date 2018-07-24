@@ -13,8 +13,22 @@ layout: default
     {% endif %}
       
   </header>
-  <section class="post-content">{{ content }}</section>
-    
+
+  <section class="post-content">
+    <!-- Sub-navigation -->
+    <nav class="clear">
+      <ul>
+        {% for p in site.pages %}
+        {% if p.permalink contains page.permalink and p.permalink != page.permalink %}
+        <li><a href="{{p.permalink}}">{{ p.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <!-- Page content (from actual page) -->
+    {{ content }}
+  </section>
     
   <!-- Tag list for portfolio -->
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}

@@ -8,9 +8,7 @@ order: 200
 
 # Medlemskab af Javagruppen
 
-Indmeldelse forgår ved at udfylde nedenstående Google Formular:
-
-https://goo.gl/forms/lvxpwlO1tsL0TLul2
+Indmeldelse forgår ved at udfylde følgende [Indmeldelsesformular](https://goo.gl/forms/lvxpwlO1tsL0TLul2) (Google Formular).
 
 Priser for medlemskab er som følger:
 

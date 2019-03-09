@@ -11,5 +11,6 @@ mere funktionsprogrammering - hvad med Java selv. Immutable collections, Eclipse
 Kom gerne med indlæg.
 
 
-Første præsentation  "What is VAVR?"
+Første præsentation  "What is [VAVR](http://www.vavr.io/)?"
  
+![vavr](/assets/img/posts/2019/vavr.png)

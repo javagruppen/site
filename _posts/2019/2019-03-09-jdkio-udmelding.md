@@ -10,6 +10,6 @@ Bestyrelsen har selv mange ideer til emner, men vi vil meget gerne have input fr
 
 Har din virksomhed lokaler, som de kunne ønske at stille til rådighed for at et møde, hører vi ligeledes meget gerne fra dig.
 
-Skriv til os på info@javagruppen.dk
+Skriv til os på [info@javagruppen.dk](mailto:info@javagruppen.dk)
 
 Vi har allerede planlagt det første møde - den 27. marts vil Claus Ibsen fortælle om [Camel K](https://github.com/apache/camel-k/blob/master/README.adoc), Camel på Kubernetes. Præcist tid og sted kommer snart.

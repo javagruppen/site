@@ -1,4 +1,8 @@
- Indkaldelse til Javagruppens ordinære generalforsamling 2019
+ ---
+layout: post
+title: Indkaldelse til Javagruppens ordinære generalforsamling 2019
+tags: [Generalforsamling]
+---
 
 Javagruppens ordinære generalforsamling bliver afholdt Tirsdag 5. februar 2019 kl 19.00 hos Lund & Bendsen, Naverland 2, 15. sal, 2600 Glostrup.
 

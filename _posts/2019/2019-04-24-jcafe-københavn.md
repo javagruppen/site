@@ -13,3 +13,4 @@ Kom gerne med indlæg.
 
 Første præsentation  "What is [VAVR](http://www.vavr.io/)?"
  
+![vavr](/assets/img/posts/2019/vavr.png)

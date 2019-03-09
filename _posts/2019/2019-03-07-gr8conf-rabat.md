@@ -18,6 +18,6 @@ Af teknologier der er præsentationer af, kan bl.a. nævnes testing med Spock, G
 
 For Javagruppens medlemmer er der Indtil 30. april en rabat på 35% (du sparer op til kr. 2.625 pr. billet). Fra 1. majl er rabatten 25% (spar op til kr. 1.875 pr. billet).
 
-For at tilmelde dig, skal du gå til (https://gr8conf.eu) og klikke på registrering. Når du kommer til siden "Summary", skal du udskifte eller indtaste rabatkoden som du får ved at skrive til (mailto:info@javagruppen.dk).
+For at tilmelde dig, skal du gå til (https://gr8conf.eu)[https://gr8conf.eu] og klikke på registrering. Når du kommer til siden "Summary", skal du udskifte eller indtaste rabatkoden som du får ved at skrive til (info@javagruppen.dk)[mailto:info@javagruppen.dk].
 
-Vi håber, at du får mulighed for at besøge konferencen! Se alle talerne og mere på (https://gr8conf.eu)
+Vi håber, at du får mulighed for at besøge konferencen! Se alle talerne og mere på (https://gr8conf.eu)[https://gr8conf.eu]

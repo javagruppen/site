@@ -14,7 +14,7 @@ layout: default
   </header>
   <section class="post-content">
     {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
-    {% for year in postsByYear reversed %}
+    {% for year in postsByYear %}
     <h3>{{ year.name }}</h3>
     <div class="bootstrap-iso">
       <dl class="dl-horizontal">

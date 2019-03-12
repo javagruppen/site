@@ -27,21 +27,21 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "javagruppen"
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "javagruppen"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/groups/36020/"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: javagruppen
   vimeo:
   wordpress:
   youtube:
@@ -79,7 +79,7 @@ theme_settings:
   
   
 # PAGINATION
-paginate: 5
+paginate: 10
 paginate_path: "blog/page:num"
 
 

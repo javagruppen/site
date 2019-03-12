@@ -19,7 +19,7 @@ theme_settings:
      <p>Javagruppen er Danmarks <code>Java User Group</code> <br> - en brugergruppe om alt, Java-relateret.</p>
   header_text_feature_image: assets/img/topbanner.jpg
   footer_text: >
-   Javagruppen på <a href="https://twitter.com/">Twitter</a> og <a href="https://facebook.com/">Facebook</a>
+    Alle rettigheder tilhører Javagruppen.
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout

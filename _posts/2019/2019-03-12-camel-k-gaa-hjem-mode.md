@@ -13,7 +13,7 @@ Teknikervej 1
 7000  Fredericia](https://goo.gl/maps/jRY2KVqE9aQ2)  
 
 
-Sidste gang Claus var forbi fortalte han om "Agile Integration with Apache Camel microservices in containers on Kubernetes", nu har Red Hat taget Apache Camel til et nyt niveau med support for afvikling af Camel router direkte på cloud platforme, som Kubernetes and OpenShift med imponerende opstartstider.
+Sidste gang Claus var forbi fortalte han om "Agile Integration with Apache Camel microservices in containers on Kubernetes", nu har Red Hat taget Apache Camel til et nyt niveau med support for afvikling af Camel router direkte på cloud platforme, som Kubernetes og OpenShift med imponerende opstartstider.
 
 Kom og hør Claus Ibsen præsentere Camel K
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JCafe 24. april 2019 i København
-tags: [JCafe, VAVR, Groovy, Scala, Kotlin, Clojure, København]
+tags: [JCafe, VAVR, Groovy, Scala, Kotlin, Clojure, København, Meetup]
 ---
 
 Hoved emnet er funktions programmering.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: J-Cafe og Juleafslutning i Vest den 13 dec.
-tags: [JCafe, session, juleafslutning]
+tags: [JCafe, session, juleafslutning, Meetup]
 ---
 
 Javagruppen holder J-Cafe og Juleafslutning i vest den 13 december fra 17.00 - 19.00 hos e2Y Denmark i Aarhus.

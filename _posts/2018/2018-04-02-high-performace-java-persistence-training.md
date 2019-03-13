@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High-Performance Java Persistence - training session
-tags: [Training, Session, Jpa, Hibernate]
+tags: [Training, Session, Jpa, Hibernate, Meetup]
 ---
 
 This year we also has an unique extra offer for a one-day workshop right after jdk.io the 13. of June with Vlad Mihalcea - https://vladmihalcea.com from the Hibernate team.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kubernetes & Apache Camel microservices gå-hjem møde den 11. okt hos Systematic i Aarhus
-tags: [Training, Session, Jpa, Hibernate]
+tags: [Training, Session, Jpa, Hibernate, Meetup]
 ---
 <p align="center">
 "Agile Integration with Apache Camel microservices in containers on Kubernetes"<br>

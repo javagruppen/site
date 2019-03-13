@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CamundaCon den 12. og 13. september 2019 i Berlin
-tags: [CamnudaCon, Workflow, Decision Automation, Berlin]
+tags: [CamnudaCon, Workflow, Decision Automation, Berlin, Meetup]
 ---
 
 Javagruppen vil iår - som noget helt nyt arrangere en tur til [CamundaCon](https://camunda.com/events/camundacon/) i Berlin

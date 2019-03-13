@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Camel K gå-hjem møde med Claus Ibsen
-tags: [Apache Camel, Camel K, Kubernetes, GradleVM]
+tags: [Apache Camel, Camel K, Kubernetes, GradleVM, Meetup]
 author: Flemming Harms
 ---
 

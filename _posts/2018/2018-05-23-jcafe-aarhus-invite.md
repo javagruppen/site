@@ -1,7 +1,7 @@
 ---
 layout: post
 title: J-Cafe gå-hjem møde i Aarhus den 23 maj
-tags: [JCafe, Kotlin, Lombok, MapStructure]
+tags: [JCafe, Kotlin, Lombok, MapStructure, Meetup]
 author: Flemming Harms
 ---
 

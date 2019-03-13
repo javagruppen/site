@@ -14,5 +14,5 @@ Javagruppen afholdte en aktivitetsweekend, d. 9/3-2019.
 Brainstorm
 
 <p align="center">
-  <img src="/assets/img/posts/2019/inspiration.jpg">
+  <img src="/assets/img/posts/2019/inspiration.png">
 </p>

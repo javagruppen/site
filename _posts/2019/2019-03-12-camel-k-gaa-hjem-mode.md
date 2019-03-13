@@ -19,8 +19,8 @@ Kom og hør Claus Ibsen præsentere Camel K
 
 <!-- more -->
 Læse mere om Camel K her:
-- [https://www.nicolaferraro.me/2018/10/15/introducing-camel-k/]()
-- [https://github.com/apache/camel-k]()
+- [https://www.nicolaferraro.me/2018/10/15/introducing-camel-k/](https://www.nicolaferraro.me/2018/10/15/introducing-camel-k/)
+- [https://github.com/apache/camel-k](https://github.com/apache/camel-k)
 
 # Agenda
 - Camel K - Claus Ibsen

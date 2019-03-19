@@ -26,8 +26,8 @@ Læse mere om Camel K her:
 - Networking + Sandwich
 
 Tilmelding er nødvendig via:
-- Aarhus: [Eventbrite](https://www.eventbrite.com/e/javagruppen-camel-k-ga-hjem-mde-tickets-58673156992)
-- København: []() 
+- Fredercia: [Eventbrite](https://www.eventbrite.com/e/javagruppen-camel-k-ga-hjem-mde-tickets-58673156992)
+- København: [Eventbrite](https://www.eventbrite.com/e/javagruppen-camel-k-ga-hjem-mde-kbenhavn-tickets-59076778234) 
 
 Med javagruppe hilsner
 Anders Skarby og Flemming Harms

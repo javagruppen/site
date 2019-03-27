@@ -10,6 +10,39 @@ mere funktionsprogrammering - hvad med Java selv. Immutable collections, Eclipse
 
 Kom gerne med indlæg.
 
+#Vavr Agenda
+## Introduction
+* History
+* Purpose
+
+## Tuples
+* Map
+* Transform
+
+## Functions
+* Composition
+* Lifting
+* Currying
+* Memoization
+
+## Values
+* Option
+* Try
+* Lazy
+* Either
+* Future
+* Validation
+
+## Collections
+* List
+* Stream
+
+## Property Checking
+
+## Pattern Matching
+* Patterns
+
+
 
 Første præsentation  "What is [VAVR](http://www.vavr.io/)?"
 <!-- more --> 

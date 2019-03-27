@@ -10,7 +10,21 @@ mere funktionsprogrammering - hvad med Java selv. Immutable collections, Eclipse
 
 Kom gerne med indlæg.
 
-#Vavr Agenda
+
+
+Første præsentation  "What is [VAVR](http://www.vavr.io/)?"
+<!-- more --> 
+
+![vavr-agenda](/assets/img/posts/2019/vavr-agenda.png)
+
+<br/>
+
+![vavr](/assets/img/posts/2019/vavr.png)
+
+
+
+<!--
+# Vavr Agenda
 ## Introduction
 * History
 * Purpose
@@ -43,7 +57,4 @@ Kom gerne med indlæg.
 * Patterns
 
 
-
-Første præsentation  "What is [VAVR](http://www.vavr.io/)?"
-<!-- more --> 
-![vavr](/assets/img/posts/2019/vavr.png)
+-->

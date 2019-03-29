@@ -4,12 +4,15 @@ title: JCafe 24. april 2019 i København
 tags: [JCafe, VAVR, Groovy, Scala, Kotlin, Clojure, København, Meetup]
 ---
 
-Hoved emnet er funktions programmering.
+Hovedemnet er funktionsprogrammering.
 Groovy, Scala, Kotlin og Clojure - Monad - 
-mere funktionsprogrammering - hvad med Java selv. Immutable collections, Eclipse.collections, Guava, Streams, , 
+mere funktionsprogrammering - hvad med Java selv. Immutable collections, Eclipse.collections, Guava, Streams ...
+
+24\. april kl 17.00 - 19.00 hos  
+[Mind4IT Nørgaardsvej 32, 2800 Kgs. Lyngby](https://goo.gl/maps/5JWanMtPhzK2)  
+
 
 Kom gerne med indlæg.
-
 
 
 Første præsentation  "What is [VAVR](http://www.vavr.io/)?"

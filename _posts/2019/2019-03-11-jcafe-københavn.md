@@ -17,8 +17,7 @@ Kom gerne med indlæg.
 
 Første præsentation  "What is [VAVR](http://www.vavr.io/)?"
 
-Tilmelding er nødvendig via:
-- København: [Meetup](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events/260228582/) 
+Tilmelding er nødvendig via:  [Meetup](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events/260228582/) 
 
 <!-- more --> 
 

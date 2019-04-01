@@ -9,9 +9,10 @@
 #			        		c) Will make sure docker is not already running. (Stops running version)
 #			        		d) Will run detach - (background) - remove --detach to see log
 # 				'stop'   - stops server
+# 				'run'    - run server direct in this shell
 # 				'log'    - see and follow log
 # 				'open'   - browse site on localhost
-#               <default> - 'start'
+#               <default> - 'run'
 #
 # precondion:
 #				Install docker on workstation before running
@@ -25,10 +26,13 @@
 #			2)  Stopping docker again
 #				./bash_docker.sh stop
 #
-#			3)  See log
+#			3)  running server in process
+#				./bash_docker.sh run
+#
+#			4)  See log
 #				./bash_docker.sh log
 #
-#			4)  Browse on localhost
+#			5)  Browse on localhost
 #				./bash_docker.sh open
 #
 # purpose:		The purpose of this script is to document how to make
@@ -37,12 +41,24 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
 
+# ---------------------------------------------------------------------------
+# function:     run
+# description:  Causes jekyll server to run on port 4000
+# usage:
+#           bash_docker.sh run
+#
+function do_run {
+    docker run -p 4000:4000 -v $DIR:/site bretfisher/jekyll-serve
+}
+
+# ---------------------------------------------------------------------------
 function do_stop {
 	echo "Stopping + removing container (will write error when container missing...)"
 	docker container stop javagruppen_jekyll
 	docker container rm  javagruppen_jekyll
 }
-#
+
+# ---------------------------------------------------------------------------
 function do_start {
 	do_stop
 	echo "running jekyll on source in " $DIR
@@ -53,11 +69,15 @@ function do_start {
 		bretfisher/jekyll-serve
 #
 }
+
+# ---------------------------------------------------------------------------
+
 function do_log {
 	echo "showing log for, ctrl C to stop " $DIR
 	docker container logs --follow javagruppen_jekyll
 }
 
+# ---------------------------------------------------------------------------
 function do_open {
 	echo "on macos default browser will show resulting page"
 	open http://localhost:4000
@@ -67,7 +87,7 @@ function do_open {
 # ===============
 command=$1
 if [ -z "$command" ]; then
-command="start"
+command="run"
 fi
 do_$command
 #

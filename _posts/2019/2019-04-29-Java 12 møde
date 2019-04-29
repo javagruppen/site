@@ -1,0 +1,29 @@
+Vi mødes og snakker rundt om ændringerne fra Java 8 og op til Java 12.
+
+Undervisere i Java - Jacob Bendsen og Martin Boel kommer med et oplæg med en opsummering af hvad der er sket, og hvorfor man skal komme med på vognen.
+
+Java 12:
+Switch Expressions
+JVM Constants API
+Microbenchmark Suite
+
+Nyt for JWM og Garbage Collectors:
+- Shenandoah,
+- class data-sharing (CDS)
+- Abortable Mixed Collections for G1
+- Return Unused Committed Memory from G1
+
+Goodies fra java 9, 10 og 11:
+- Local-Variable Syntax for Lambda Parameters
+- Launch Single-File Source-Code Programs
+- HTTP Client (Standard),
+- http2
+- Nye API'er
+
+Tools:
+- Jshell
+- Flight Recorder
+- JLink
+- Jigsaw / modules
+
+[Tilmelding](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events/261012175)

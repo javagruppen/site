@@ -7,11 +7,17 @@ author: Niels Harremoes
 
 Jeff Brown, en af grundlæggerne af Micrnaut, holder et halvdags seminar om Micronaut
 
+
+
+<p><img src="/assets/img/posts/2019/micronaut.png" alt="micronaut" /></p>
+
+<!-- more --> 
+
+
 | Tilmelding   |      Lokation |     
 |----------|:------------- |
 | [Tilmelding via meetup København](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events/261235982) | Lund & Bendsen, Naverland 2, 15. sal, 2600 Glostrup | 
  
-<!-- more --> 
 
 Hands-on Micronaut Jumpstart
 Micronaut is a new full-stack JVM framework for building modular, easily testable microservice applications and serverless applications. Unlike reflection-based IoC frameworks, Micronaut provides advanced dependency injection and AOP support at compilation time. As a result, your application startup time and memory usage are reduced to a minimum, regardless of the size of your codebase.

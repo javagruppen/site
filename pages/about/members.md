@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Medlemmer i JavaGruppen
+title: Medlemmer i Javagruppen
 permalink: /about/members/
 feature-img: "assets/img/topbanner.jpg"
-tags: [Om, JavaGruppen]
+tags: [Om, Javagruppen]
 hide: true
 ---
 

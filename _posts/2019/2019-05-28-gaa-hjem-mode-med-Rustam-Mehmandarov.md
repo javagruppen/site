@@ -16,6 +16,7 @@ medlemmerne I Københavns området.
 | [Miracle, Skanderborgvej 232, 8260 Viby](https://goo.gl/maps/fjfCnK5ige67pviG9) | [Lund & Bendsen, Naverland 2, 15. sal, 2600 Glostrup](https://goo.gl/maps/Z5Z5UvogyCuQg3iJ7)
 | [Tilmelding via meetup Aarhus](https://www.meetup.com/Aarhus-Javagruppen-Meetup/events/261858560/) | Tilmelding via meetup København på vej |
 
+<!-- more --> 
 
 ## Agenda for den 11\. Juni i Aarhus 
 - 16.30 - 17.20 Intro til Elastic Search med Aage Nielsen

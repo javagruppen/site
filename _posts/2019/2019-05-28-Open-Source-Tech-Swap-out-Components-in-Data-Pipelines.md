@@ -12,16 +12,16 @@ medlemmerne I Københavns området.
 
 | Århus                                                                  | København                      |
 | --------------------------------------------------------------------------- | ------------------------------ |
-| 11\. juni 2019 kl. 16.30 - 18.30                                           | 12\. juni 2019  |
+| 11\. juni 2019 kl. 16.00 - 18.30                                           | 12\. juni 2019  |
 | [Miracle, Skanderborgvej 232, 8260 Viby](https://goo.gl/maps/fjfCnK5ige67pviG9) | [Lund & Bendsen, Naverland 2, 15. sal, 2600 Glostrup](https://goo.gl/maps/Z5Z5UvogyCuQg3iJ7)
 | [Tilmelding via meetup Aarhus](https://www.meetup.com/Aarhus-Javagruppen-Meetup/events/261858560/) | Tilmelding via meetup København på vej |
 
 <!-- more --> 
 
 ## Agenda for den 11\. Juni i Aarhus 
-- 16.30 - 17.20 Intro til Elastic Search med Aage Nielsen
-- 17.30 - 18.30 Open Source Tech to Swap out Components in Data Pipelines med Rustam Mehmandarov
-- 18.30 - 19.00 Sandwich, vand og networking (Sponsoreret af Miracle)
+- 16.00 - 16.50 Intro til Elastic Search med Aage Nielsen
+- 17.00 - 18.00 Open Source Tech to Swap out Components in Data Pipelines med Rustam Mehmandarov
+- 18.00 - 18.30 Sandwich, vand og networking (Sponsoreret af Miracle)
 
 ## Agenda for den 12\. Juni i Glostrup 
 - På vej.

@@ -32,7 +32,7 @@ Anders Skarby, Niels Ull Harremoes og Flemming Harms
 ### Aage Nielsen
 <img src="/assets/img/speakers/Aage-Nielsen-openminds.jpg" style="width: 25%;height: auto; margin: 0;padding: 0;">
 
-<a class="twitter-follow-button" href="https://twitter.com/TwitterDev" data-size="large">Follow @aagnie</a>
+<a class="twitter-follow-button" href="https://twitter.com/aagnie" data-size="large">Follow @aagnie</a>
 
 #### BIO
 Aage er en særdeles erfaren systemarkitekt og -designer med mere end 20 års erfaring inden for arkitektur, rådgivning, programmering, projektledelse og komplekse, tekniske opgaver. Han er en mester i integrationer og i at binde forretning sammen med it.
@@ -40,7 +40,7 @@ Aage er en særdeles erfaren systemarkitekt og -designer med mere end 20 års er
 ### Rustam Mehmandarov
 <img src="/assets/img/speakers/Rustam-Mehmandarov.jpg" style="width: 25%;height: auto; margin: 0;padding: 0;">
 
-<a class="twitter-follow-button" href="https://twitter.com/TwitterDev" data-size="large">Follow @rmehmandarov</a>
+<a class="twitter-follow-button" href="https://twitter.com/rmehmandarov" data-size="large">Follow @rmehmandarov</a>
 
 #### Open Source Tech to Swap out Components in Data Pipelines
 

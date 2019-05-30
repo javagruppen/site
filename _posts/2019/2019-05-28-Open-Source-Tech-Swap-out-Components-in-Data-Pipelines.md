@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Source Tech to Swap out Components in Data Pipelines & Intro til Elastic Search
-tags: [Apache Beam, Apache Airflow, Elastic Search, Meetup, Århus, København]
+tags: [Apache Beam, Apache Airflow, ElasticSearch, Meetup, Århus, København]
 author: Flemming Harms
 ---
 
@@ -19,7 +19,7 @@ medlemmerne I Københavns området.
 <!-- more --> 
 
 ## Agenda for den 11\. Juni i Aarhus 
-- 16.00 - 16.50 Intro til Elastic Search med Aage Nielsen
+- 16.00 - 16.50 Intro til ElasticSearch med Aage Nielsen
 - 17.00 - 18.00 Open Source Tech to Swap out Components in Data Pipelines med Rustam Mehmandarov
 - 18.00 - 18.30 Sandwich, vand og networking (Sponsoreret af Miracle)
 

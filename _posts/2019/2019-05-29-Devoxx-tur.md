@@ -11,7 +11,7 @@ author: Niels Harremoes
 ![devoxx](/assets/img/posts/2019/devoxx.png)
 
 Nu er tilmeldingen til vores traditionsrige fælles tur klar:
-https://www.cwtnordicevents.com/javagruppen2019
+[https://www.cwtnordicevents.com/javagruppen2019](https://www.cwtnordicevents.com/javagruppen2019)
 
 Vi tilbyder en 5-dages tur og en 3-dages tur, begge inkl fly fra Billund eller København, hotel, tog og sporvognsbilletter mellem hotel og konferencecenteret.
 

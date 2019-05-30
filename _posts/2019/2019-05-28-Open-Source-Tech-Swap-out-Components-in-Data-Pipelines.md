@@ -16,12 +16,12 @@ Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Aarhus den 1
 
 <!-- more --> 
 
-## Agenda for den 11\. Juni i Aarhus 
+## Agenda for den 11\. juni i Aarhus 
 - 16.00 - 16.50 Intro til ElasticSearch med Aage Nielsen
 - 17.00 - 18.00 Open Source Tech to Swap out Components in Data Pipelines med Rustam Mehmandarov
 - 18.00 - 18.30 Sandwich, vand og networking (Sponsoreret af Miracle)
 
-## Agenda for den 12\. Juni i Glostrup 
+## Agenda for den 12\. juni i Glostrup 
 - 16.00 - 17.00 Open Source Tech to Swap out Components in Data Pipelines med Rustam Mehmandarov
 - 17.00 - 18.00 Networking
 

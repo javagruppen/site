@@ -10,9 +10,9 @@ Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Aarhus den 1
 
 | Århus                                                                  | Glostrup                      |
 | --------------------------------------------------------------------------- | ------------------------------ |
-| 11\. juni 2019 kl. 16.00 - 18.30                                           | 12\. juni 2019  |
+| 11\. juni 2019 kl. 16.00 - 18.30                                           | 12\. juni 2019 kl. 16.00 - 18.00 |
 | [Miracle, Skanderborgvej 232, 8260 Viby](https://goo.gl/maps/fjfCnK5ige67pviG9) | [Lund & Bendsen, Naverland 2, 15. sal, 2600 Glostrup](https://goo.gl/maps/Z5Z5UvogyCuQg3iJ7)
-| [Tilmelding via meetup Aarhus](https://www.meetup.com/Aarhus-Javagruppen-Meetup/events/261858560/) | Tilmelding via meetup København på vej |
+| [Tilmelding via meetup Aarhus](https://www.meetup.com/Aarhus-Javagruppen-Meetup/events/261858560/) | [Tilmelding via meetup København](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events/261890386/) |
 
 <!-- more --> 
 
@@ -22,7 +22,8 @@ Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Aarhus den 1
 - 18.00 - 18.30 Sandwich, vand og networking (Sponsoreret af Miracle)
 
 ## Agenda for den 12\. Juni i Glostrup 
-- På vej.
+- 16.00 - 17.00 Open Source Tech to Swap out Components in Data Pipelines med Rustam Mehmandarov
+- 17.00 - 18.00 Networking
 
 
 Med javagruppe hilsner  

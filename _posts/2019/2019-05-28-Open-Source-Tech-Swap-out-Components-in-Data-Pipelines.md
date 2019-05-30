@@ -10,7 +10,7 @@ Norske JUG javaBin, og Aage Nielsen fra Openminds, og den 12. juni holder Rustam
 medlemmerne I Københavns området.
 
 
-| Århus                                                                  | København                      |
+| Århus                                                                  | Glostrup                      |
 | --------------------------------------------------------------------------- | ------------------------------ |
 | 11\. juni 2019 kl. 16.00 - 18.30                                           | 12\. juni 2019  |
 | [Miracle, Skanderborgvej 232, 8260 Viby](https://goo.gl/maps/fjfCnK5ige67pviG9) | [Lund & Bendsen, Naverland 2, 15. sal, 2600 Glostrup](https://goo.gl/maps/Z5Z5UvogyCuQg3iJ7)

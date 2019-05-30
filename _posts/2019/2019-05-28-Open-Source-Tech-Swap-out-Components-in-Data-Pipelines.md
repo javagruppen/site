@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Source Tech to Swap out Components in Data Pipelines & Intro til Elastic Search
+title: Open Source Tech to Swap out Components in Data Pipelines & Intro til ElasticSearch
 tags: [Apache Beam, Apache Airflow, ElasticSearch, Meetup, Århus, København]
 author: Flemming Harms
 ---

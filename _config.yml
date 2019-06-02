@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://javagruppen.github.io"
+url: "https://javagruppen.dk"
 title: Javagruppen # site's title
 description: "Dansk Java User-group" # used by search engines
 

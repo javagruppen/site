@@ -17,11 +17,12 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = '~> 2.1'
     
-  spec.add_runtime_dependency "jekyll", "~> 3.8.4"
+  spec.add_runtime_dependency "jekyll", "~> 3.8.5"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
-  spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.3"
+  spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.5"
+  spec.add_runtime_dependency "jekyll-sitemap", "~> 1.2.0"
 
-  spec.add_development_dependency "bundler", "~> 1.12"
+  spec.add_development_dependency "bundler", "~> 1.17.1"
   spec.add_development_dependency "rake", "~> 10.0"
 
 end

@@ -7,24 +7,25 @@ author: Flemming Harms
 
 Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Aarhus den 11. juni kommer Rustam Mehmandarov fra den Norske JUG javaBin, og Aage Nielsen fra Openminds, og den 12. juni holder Rustam Mehmandarov samme præsentation for medlemmerne I Københavns området.
 
+> Rettelse, dato'en for gå-hjem møde i Aarhus er rykket til den 13\. juni 2019 kl. 16.00 - 18.30
+
 
 | Århus                                                                  | Glostrup                      |
 | --------------------------------------------------------------------------- | ------------------------------ |
-| 11\. juni 2019 kl. 16.00 - 18.30                                           | 12\. juni 2019 kl. 16.00 - 18.00 |
+| 13\. juni 2019 kl. 16.00 - 18.30                                           | 12\. juni 2019 kl. 16.00 - 18.00 |
 | [Miracle, Skanderborgvej 232, 8260 Viby](https://goo.gl/maps/fjfCnK5ige67pviG9) | [Lund & Bendsen, Naverland 2, 15. sal, 2600 Glostrup](https://goo.gl/maps/Z5Z5UvogyCuQg3iJ7)
 | [Tilmelding via meetup Aarhus](https://www.meetup.com/Aarhus-Javagruppen-Meetup/events/261858560/) | [Tilmelding via meetup København](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events/261890386/) |
 
 <!-- more --> 
 
-## Agenda for den 11\. juni i Aarhus 
-- 16.00 - 16.50 Intro til ElasticSearch med Aage Nielsen
-- 17.00 - 18.00 Open Source Tech to Swap out Components in Data Pipelines med Rustam Mehmandarov
-- 18.00 - 18.30 Sandwich, vand og networking (Sponsoreret af Miracle)
-
 ## Agenda for den 12\. juni i Glostrup 
 - 16.00 - 17.00 Open Source Tech to Swap out Components in Data Pipelines med Rustam Mehmandarov
 - 17.00 - 18.00 Networking
 
+## Agenda for den 13\. juni i Aarhus 
+- 16.00 - 16.50 Intro til ElasticSearch med Aage Nielsen
+- 17.00 - 18.00 Open Source Tech to Swap out Components in Data Pipelines med Rustam Mehmandarov
+- 18.00 - 18.30 Sandwich, vand og networking (Sponsoreret af Miracle)
 
 Med javagruppe hilsner  
 Anders Skarby, Niels Ull Harremoes og Flemming Harms

@@ -14,7 +14,7 @@ Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Aarhus den 1
 | --------------------------------------------------------------------------- | ------------------------------ |
 | 13\. juni 2019 kl. 16.00 - 18.30                                           | 12\. juni 2019 kl. 16.00 - 18.00 |
 | [Miracle, Skanderborgvej 232, 8260 Viby](https://goo.gl/maps/fjfCnK5ige67pviG9) | [Lund & Bendsen, Naverland 2, 15. sal, 2600 Glostrup](https://goo.gl/maps/Z5Z5UvogyCuQg3iJ7)
-| [Tilmelding via meetup Aarhus](https://www.meetup.com/Aarhus-Javagruppen-Meetup/events/261858560/) | [Tilmelding via meetup København](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events/261890386/) |
+| [**Tilmelding via meetup Aarhus**](https://www.meetup.com/Aarhus-Javagruppen-Meetup/events/261858560/) | [**Tilmelding via meetup København**](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events/261890386/) |
 
 <!-- more --> 
 

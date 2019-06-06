@@ -5,7 +5,7 @@ tags: [Apache Beam, Apache Airflow, ElasticSearch, Meetup, Århus, København]
 author: Flemming Harms
 ---
 
-Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Aarhus den 11. juni kommer Rustam Mehmandarov fra den Norske JUG javaBin, og Aage Nielsen fra Openminds, og den 12. juni holder Rustam Mehmandarov samme præsentation for medlemmerne I Københavns området.
+Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Aarhus den 13. juni kommer Rustam Mehmandarov fra den Norske JUG javaBin, og Aage Nielsen fra Openminds, og den 12. juni holder Rustam Mehmandarov samme præsentation for medlemmerne I Københavns området.
 
 > Rettelse, dato'en for gå-hjem møde i Aarhus er rykket til den 13\. juni 2019 kl. 16.00 - 18.30
 

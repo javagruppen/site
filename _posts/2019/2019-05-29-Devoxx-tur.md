@@ -4,7 +4,7 @@ title: Fælles tur til Devoxx i Antwerpen 4-8. november 2019
 tags: [Devoxx]
 author: Niels Harremoes
 ---
-
+### Vi er desværre løbet tør for billetter - hvis vi kan få fat i flere, kommer der besked på mailing listen
 
 ###### Tag med Javagruppen til den største europæiske Java konference - Devoxx, 4-8. november i Antwerpen.
 

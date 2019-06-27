@@ -7,7 +7,8 @@ author: Anders Kristian Andersen
 
 Javagruppen vil i år - som noget helt nyt arrangere en tur til [CamundaCon](https://camunda.com/events/camundacon/) i Berlin
 
-Camunda er et workflow system, som giver et microservice miljø helt nye muligheder.
+Camunda er et workflow system, som giver et microservice miljø helt nye muligheder. 
+Ligeledes er Berlin en ganske hyggelig by.
 
 
 ![devoxx](https://camunda.com/svg/logo.svg)
@@ -28,7 +29,7 @@ Det kan man ikke helt nå hvis man vil hjem fredag.
 Javagruppen har fået en rabatkode "JavagruppenAtCamundaCon2019" til konferencen, som giver 20 procent rabat.
 Erfaringen er at hoteller relativ hurtig bliver booket.
 
-Start med tilmelding til konferencen er her:  [CamundaCon](https://camunda.com/events/camundacon/)
+Start med tilmelding til konferencen her:  [CamundaCon](https://camunda.com/events/camundacon/)
 
 
  

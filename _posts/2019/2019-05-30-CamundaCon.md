@@ -26,8 +26,10 @@ Konferencen slutter med Networking - som bl.a. indeholder en sejltur på floden.
 Det kan man ikke helt nå hvis man vil hjem fredag.
 
 
-Javagruppen har fået en rabatkode "JavagruppenAtCamundaCon2019" til konferencen, som giver 20 procent rabat.
+Javagruppen har fået en rabatkode "Javagruppen2019" til konferencen, som giver 20 procent rabat.
 Erfaringen er at hoteller relativ hurtig bliver booket.
+
+Konferencen er ved at blive udsolgt.
 
 Start med tilmelding til konferencen her:  [CamundaCon](https://camunda.com/events/camundacon/)
 

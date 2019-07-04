@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Indmeldelse
-permalink: /sign-up/
+title: Medlemsskab
 feature-img: "assets/img/topbanner.jpg"
-order: 200
+tags: [Om, Javagruppen, Medlemsskab]
+order: 500
+hide: true
 ---
 
 Javagruppen tilbyder følgende medlemskaber:
@@ -15,4 +16,6 @@ Javagruppen tilbyder følgende medlemskaber:
 
 (alle priser er eksklusiv moms 25%)
 
-Indmeldelse forgår ved at udfylde følgende [Indmeldelsesformular](https://goo.gl/forms/lvxpwlO1tsL0TLul2) (Google Formular).
+[Indmeldelse](/sign-up)
+
+[Se nuværende  medlemer af Javagruppen](/about/members)

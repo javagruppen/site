@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Medlemmer i Javagruppen
-permalink: /about/members/
 feature-img: "assets/img/topbanner.jpg"
 tags: [Om, Javagruppen]
 hide: true

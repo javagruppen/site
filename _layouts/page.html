@@ -8,26 +8,15 @@ layout: default
         {{ page.title }}
     </h1>
     
-    {% if page.subtitle %}
-    <h2 class="subtitle">{{ page.subtitle }}</h2>
-    {% endif %}
-      
   </header>
 
   <section class="post-content">
-    <!-- Sub-navigation -->
-    <nav class="clear">
-      <ul>
-        {% for p in site.pages %}
-        {% if p.permalink contains page.permalink and p.permalink != page.permalink %}
-        <li><a href="{{p.permalink}}">{{ p.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </nav>
+    {% if page.subtitle %}
+    <h1>{{ page.subtitle }}</h1>
+    {% endif %}
 
     <!-- Page content (from actual page) -->
-    {{ content }}
+    {{ content | toc }}
   </section>
     
   <!-- Tag list for portfolio -->

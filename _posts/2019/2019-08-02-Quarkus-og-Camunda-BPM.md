@@ -15,7 +15,7 @@ Tilmelding er nødvendig via:  [Meetup](https://www.meetup.com/Aarhus-Javagruppe
 
 ## Agenda
 - 16:30 - 16:35 - Velkomst
-- 16:35 - 17:35 - Quarkus (del 1)
+- 16:35 - 17:35 - Quarkus
 - 17:35 - 17:45 - Sandwiches og vand (Sponsoreret af Systematic)
 - 17:45 - 18:45 - Camunda BPM
 - 18:45 - 19:00 - Networking og afsked

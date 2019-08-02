@@ -47,8 +47,6 @@ Speakers:
 ### Camunda BPM
 <img src="/assets/img/speakers/Michael-Martinsen-openminds.png" style="width: 25%;height: auto; margin: 0;padding: 0;">
 
-<a href="https://twitter.com/rmehmandarov?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rmehmandarov</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 #### Abstract
 
 This session will introduce you to the Camunda BPM Platform.

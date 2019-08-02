@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quarkus & Camunda BPM
-tags: [Quarkus, Camunda, Meetup, Aarhus, København]
+tags: [Quarkus, Camunda, Meetup, Aarhus]
 author: Anders Skarby
 ---
 

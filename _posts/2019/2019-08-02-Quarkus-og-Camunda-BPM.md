@@ -5,7 +5,11 @@ tags: [Quarkus, Camunda, Meetup, Aarhus, København]
 author: Anders Skarby
 ---
 
-Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Aarhus den 3. september, klokken 16:30-19:00.
+Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Aarhus den 3. september, klokken 16:30-19:00, hos:
+
+**Systematic**
+Søren Frichs Vej 39
+8000 Aarhus C
 
 Thomas Qvarnstorm samt Syed Shaaf fra Red Hat kommer og fortæller om Quarkus, og Michael Martinsen fra Openminds kommer og fortæller om Camunda BPM.
 

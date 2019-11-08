@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quarkus & CamelK
+title: 2019-11-28 Kl 17:00 Quarkus & CamelK hos Lund&Bendsen
 tags: [Quarkus, CamelK, Meetup, Copenhagen]
 author: Martin Boel
 ---

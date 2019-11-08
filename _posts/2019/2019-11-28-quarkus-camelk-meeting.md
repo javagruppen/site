@@ -19,7 +19,7 @@ Tilmelding er nødvendig via:  [Meetup](https://www.meetup.com/Copenhagen-Javagr
 
 ## Agenda
 - 17:00 - 18:00 - Quarkus - Max Rydahl Andersen
-- 18:00 - 18:30 - Sandwiches og vand (Sponsoreret af Systematic)
+- 18:00 - 18:30 - Sandwiches og vand 
 - 18:30 - 19:30 - Camel K - Claus Ibsen
 - 19:30 - 20:00 - Networking og afsked
 

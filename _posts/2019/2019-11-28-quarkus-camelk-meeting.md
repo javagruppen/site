@@ -11,7 +11,7 @@ Vi er rigtig glade for at kunne invitere til gå-hjem møde både i Glostrup den
 Naverland 2, 15. sal
 2600 Glostrup
 
-Thomas Qvarnstorm samt Syed Shaaf fra Red Hat kommer og fortæller om Quarkus, og Michael Martinsen fra Openminds kommer og fortæller om Camunda BPM.
+Max Rydahl Andersen kommer og fortæller om Quarkus, og Claus Ibsen kommer og fortæller om CamelK.
 
 Tilmelding er nødvendig via:  [Meetup](https://www.meetup.com/Aarhus-Javagruppen-Meetup/events/263651358/)
 

@@ -18,9 +18,9 @@ Tilmelding er nødvendig via:  [Meetup](https://www.meetup.com/Aarhus-Javagruppe
 <!-- more -->
 
 ## Agenda
-- 17:00 - 18:00 - Velkomst
+- 17:00 - 18:00 - Quarkus - Max Rydahl Andersen
 - 18:00 - 18:30 - Sandwiches og vand (Sponsoreret af Systematic)
-- 18:30 - 19:30 - Camunda BPM
+- 18:30 - 19:30 - Camel K - Claus Ibsen
 - 19:30 - 20:00 - Networking og afsked
 
 Med javagruppe hilsner  

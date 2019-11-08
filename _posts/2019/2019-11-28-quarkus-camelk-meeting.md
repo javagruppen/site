@@ -5,7 +5,7 @@ tags: [Quarkus, CamelK, Meetup, Copenhagen]
 author: Martin Boel
 ---
 
-Vi er rigtig glade for at kunne invitere til gå-hjem møde i Glostrup den 28. november, klokken 17:00-29:00, hos:
+Vi er rigtig glade for at kunne invitere til gå-hjem møde i Glostrup den 28. november, klokken 17:00-20:00, hos:
 
 **Lund&Bendsen A/S**  
 Naverland 2, 15. sal

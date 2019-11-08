@@ -31,12 +31,12 @@ Martin Boel
 <img src="https://pbs.twimg.com/profile_images/1139472596112728064/igQMPTcJ_400x400.jpg" style="width: 25%;height: auto; margin: 0;padding: 0;">
 <a href="https://twitter.com/maxandersen?lang=da" class="twitter-follow-button" data-show-count="false">Follow @maxandersen</a>
 
-####Speaker: Max Rydahl Andersen, Distinguished Engineer, Red Hat
+#### Speaker: Max Rydahl Andersen, Distinguished Engineer, Red Hat
 Danish, living and working out of Switzerland as Red Hat Distinguished Engineer. 15+ year experience in developing professional open source.
 Worked on Hibernate core & tools, lead JBoss Tools & Developer Studio, one of the architects behind OpenShift.io and
 now core member of Quarkus.io focusing on its developer experience.
 
-####Abstract:
+#### Abstract:
 Quarkus flips your assumption about how fast and small Java can be.
 It gives you super fast start uptimes and small memory and disk footprint.
 Perfect fit for usage in Cloud Native and Serverless applications.
@@ -45,16 +45,16 @@ Come to this talk to hear about an introduction to Quarkus, how it was
 made, what it does and why it makes Java relevant again.
 
 
-###Title: Cloud-native integration with Apache Camel on Kubernetes
+### Title: Cloud-native integration with Apache Camel on Kubernetes
 
 <img src="https://pbs.twimg.com/profile_images/912586518677639168/mVrGaOZA_400x400.jpg" style="width: 25%;height: auto; margin: 0;padding: 0;">
 <a href="https://twitter.com/davsclaus?lang=da" class="twitter-follow-button" data-show-count="false">Follow @davsclaus</a>
 
-####Speaker: Claus Ibsen, Senior Principal Software Engineer, Red Hat
+#### Speaker: Claus Ibsen, Senior Principal Software Engineer, Red Hat
 Works for Red Hat on the open source integration project Apache Camel. Author of Camel in Action books. Java Champion. ASF member. International speaker.
 
 
-####Abstract:
+#### Abstract:
 Cloud-native applications of the future will consist of hybrid workloads: stateful applications, batch jobs, microservices, and functions, wrapped as Linux containers and deployed via Kubernetes on any cloud.
 
 In this session, we will explore key challenges with function interactions and coordination, addressing these problems using Enterprise Integration Patterns (EIP) and modern approaches with the latest innovations from the Apache Camel community:

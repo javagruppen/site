@@ -13,7 +13,7 @@ Naverland 2, 15. sal
 
 Max Rydahl Andersen kommer og fortæller om Quarkus, og Claus Ibsen kommer og fortæller om CamelK.
 
-Tilmelding er nødvendig via:  [Meetup](https://www.meetup.com/Aarhus-Javagruppen-Meetup/events/263651358/)
+Tilmelding er nødvendig via:  [Meetup](https://www.meetup.com/Copenhagen-Javagruppen-Meetup/events/266314547)
 
 <!-- more -->
 

@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Indkaldelse til Javagruppens ordinære generalforsamling 2020
 tags: [Generalforsamling]

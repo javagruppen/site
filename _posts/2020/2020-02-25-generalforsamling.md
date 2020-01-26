@@ -17,6 +17,6 @@ Javagruppens aktuelle vedtægter findes her:
 
 Med venlig hilsen
 
-Martin Boel
+Christian Damsgaard
 
-Formand for Javagruppen
+Kasser for Javagruppen

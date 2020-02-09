@@ -3,6 +3,7 @@ baseurl: ""
 url: "https://javagruppen.dk"
 title: Javagruppen # site's title
 description: "Dansk Java User-group" # used by search engines
+future: true
 
 excerpt_separator: "<!-- more -->"
 
@@ -76,7 +77,7 @@ theme_settings:
 
   # Post navigation
   post_navigation: true
-  
+
   
 # PAGINATION
 paginate: 10

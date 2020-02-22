@@ -11,6 +11,8 @@ Det er muligt at deltage via videoopkald (Skype) hvis man ikke har mulighed for 
 
 I umiddelbar forlængelse af generalforsamlingen afholdes et konstituerende bestyrelsesmøde på samme lokation.
 
+Indkaldelse: [https://docs.google.com/document/d/e/2PACX-1vR9ze018KORElplOLzVDgSCrk2RvGhyJuIRwZmYv19j4uiiATRlOx9Zq0BsxO_sbXhPkgdNO4U3AAI-/pub](https://docs.google.com/document/d/e/2PACX-1vR9ze018KORElplOLzVDgSCrk2RvGhyJuIRwZmYv19j4uiiATRlOx9Zq0BsxO_sbXhPkgdNO4U3AAI-/pub)
+
 Javagruppens aktuelle vedtægter findes her: 
 
 [Javagruppens aktuelle vedtægter](https://docs.google.com/document/u/1/d/1JDyBvy0gbkhfIn04bNMM8wa5hkEvQmeqyo6d4hp0RnA/pub)

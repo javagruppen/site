@@ -42,7 +42,7 @@ Javagruppens vedtægter gennem årene:
 | Rolle         | Navn                          |
 | ------------- | ----------------------------- | 
 | Formand       | [Martin Boel](https://www.linkedin.com/in/martinboel){:target="_blank"}                          | 
-| Næstformand   | [Carsten L. Birn](https://www.linkedin.com/in/carstenbirn/){:target="_blank"}                           | 
+| Næstformand   | [Carsten L. Birn](https://www.linkedin.com/in/carstenbirn/){:target="_blank"}                    | 
 | Kasserer      | [Christian Damsgaard](https://www.linkedin.com/in/damsgaard){:target="_blank"}                   | 
 | Medlem        | [Anders Kristian Andersen](https://www.linkedin.com/in/anderskristianandersen){:target="_blank"} | 
 | Medlem        | [Niels Ull Harremoës](https://www.linkedin.com/in/nielsull){:target="_blank"}                    | 

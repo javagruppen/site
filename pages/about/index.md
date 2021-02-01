@@ -44,26 +44,28 @@ Javagruppens vedtægter gennem årene:
 | Formand       | [Martin Boel](https://www.linkedin.com/in/martinboel){:target="_blank"}                          | 
 | Næstformand   | [Flemming Harms](https://www.linkedin.com/in/fharms){:target="_blank"}                           | 
 | Kasserer      | [Christian Damsgaard](https://www.linkedin.com/in/damsgaard){:target="_blank"}                   | 
-| Medlem        | [Anders Skarby](https://www.linkedin.com/in/askarby){:target="_blank"}                           |
 | Medlem        | [Anders Kristian Andersen](https://www.linkedin.com/in/anderskristianandersen){:target="_blank"} | 
-| Suppleant     | [Niels Ull Harremoës](https://www.linkedin.com/in/nielsull){:target="_blank"}                    | 
+| Medlem        | [Niels Ull Harremoës](https://www.linkedin.com/in/nielsull){:target="_blank"}                    | 
 
 ## Årsregnskab
 
 Nedenfor finder du de reviderede årsregnskab for de seneste år.
 
+* [Årsregnskab 2020](https://drive.google.com/file/d/1vVDU_bokKm8wFX0X9JYvg0vCdj6svrjU/view?usp=sharing){:target="_blank"}
+* [Årsregnskab 2019](https://drive.google.com/file/d/144aRUT-NThIcngf_k0OkgLrgBTX24cci/view?usp=sharing){:target="_blank"}
 * [Årsregnskab 2018](https://drive.google.com/file/d/0ByRY0IYKSdkzcW9SekMtMWU4anBRaWdLWF9zT283bzRLTjY4/view?usp=sharing){:target="_blank"}
 * [Årsregnskab 2017](https://drive.google.com/file/d/0ByRY0IYKSdkzOGNxQUM5VHoxMEtlc3d3bnZmaGFyd0pnU1JJ/view?usp=sharing){:target="_blank"}
 * [Årsregnskab 2016](https://drive.google.com/file/d/0B7ShWyWi-rY1d1BkZl9UYXExMUk/view?usp=sharing){:target="_blank"}
 
 ## Generalforsamling
 
-| År   | Indkaldelse                                                                                                                       | Referat                                                                                                                           |
-| ---- | -----------                                                                                                                       | -------                                                                                                                           |
-| 2020 | [Google Docs](https://docs.google.com/document/d/e/2PACX-1vR9ze018KORElplOLzVDgSCrk2RvGhyJuIRwZmYv19j4uiiATRlOx9Zq0BsxO_sbXhPkgdNO4U3AAI-/pub){:target="_blank"} | |∆
-| 2019 | [Google Docs](https://docs.google.com/document/d/1uLS2xypyJPQcq9t2FPC9ldH6y7O8i88e4JcgW3GWhwU/edit?usp=sharing){:target="_blank"} | [Google Docs](https://docs.google.com/document/d/1NBt1lihVKPEM0S140hyXepb_B1LLP1X_T5BJJiCX_N0/edit?usp=sharing){:target="_blank"} |
-| 2018 | [Google Docs](https://docs.google.com/document/d/16KdYSvhSJMUPpklOJWmPhtTzcqI3FQG-gQet5CkaGpk/edit?usp=sharing){:target="_blank"} | [Google Docs](https://docs.google.com/document/d/1SVsy-c1EPGml2vXRT-N4dZ5Kd1CDXr1nbLIpqZ7Ccr8/edit?usp=sharing){:target="_blank"} |
-| 2017 | [Google Docs](https://docs.google.com/document/d/1WkfEwIZTjMwWG9hSoQdkrRNLFHbIj6eci8bIPGS_PI0/edit?usp=sharing){:target="_blank"} | [Google Docs](https://docs.google.com/document/d/1hA-ccRmgKXVRhyuK2RRGUt-MhW7AOrnWCaxzKZ3JBUA/edit?usp=sharing){:target="_blank"} |
+| År   | Indkaldelse                                                                                                                                                      | Referat                                                                                                                                                          |
+| ---- | -----------                                                                                                                                                      | -------                                                                                                                                                          |
+| 2021 | [Google Docs](https://docs.google.com/document/d/e/2PACX-1vSbsv6QDTzYw_yV5DUCO1vQYPsX3ufycm5EzZdRYVVFr_S4svBV8_QDGvYVgaTkcY_CxKxDA3Yfu_KE/pub){:target="_blank"} | |
+| 2020 | [Google Docs](https://docs.google.com/document/d/e/2PACX-1vR9ze018KORElplOLzVDgSCrk2RvGhyJuIRwZmYv19j4uiiATRlOx9Zq0BsxO_sbXhPkgdNO4U3AAI-/pub){:target="_blank"} | [Google Docs](https://docs.google.com/document/d/e/2PACX-1vQXwJ6QaMkwb5mLsVIhRTvLhnInb7LLoyMeC33Gd5BehZNz4Cz1cUpsTJX-f0u426PETwvBi-ZcHRm1/pub){:target="_blank"} |∆
+| 2019 | [Google Docs](https://docs.google.com/document/d/1uLS2xypyJPQcq9t2FPC9ldH6y7O8i88e4JcgW3GWhwU/edit?usp=sharing){:target="_blank"}                                | [Google Docs](https://docs.google.com/document/d/1NBt1lihVKPEM0S140hyXepb_B1LLP1X_T5BJJiCX_N0/edit?usp=sharing){:target="_blank"}                                |
+| 2018 | [Google Docs](https://docs.google.com/document/d/16KdYSvhSJMUPpklOJWmPhtTzcqI3FQG-gQet5CkaGpk/edit?usp=sharing){:target="_blank"}                                | [Google Docs](https://docs.google.com/document/d/1SVsy-c1EPGml2vXRT-N4dZ5Kd1CDXr1nbLIpqZ7Ccr8/edit?usp=sharing){:target="_blank"}                                |
+| 2017 | [Google Docs](https://docs.google.com/document/d/1WkfEwIZTjMwWG9hSoQdkrRNLFHbIj6eci8bIPGS_PI0/edit?usp=sharing){:target="_blank"}                                | [Google Docs](https://docs.google.com/document/d/1hA-ccRmgKXVRhyuK2RRGUt-MhW7AOrnWCaxzKZ3JBUA/edit?usp=sharing){:target="_blank"}                                |
 
 ## Sikkerhed og persondatapolitik
 

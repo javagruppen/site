@@ -5,7 +5,7 @@ tags: [Generalforsamling]
 author: Christian Damsgaard
 ---
 
-Javagruppens ordinære generalforsamling bliver afholdt tirsdag 23. februar 2021 kl 17.00 online via Zoom.
+Javagruppens ordinære generalforsamling bliver afholdt tirsdag 23. februar 2021 kl 20.00 online via Zoom.
 
 I umiddelbar forlængelse af generalforsamlingen afholdes et konstituerende bestyrelsesmøde på Zoom.
 
